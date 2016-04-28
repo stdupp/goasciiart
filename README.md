@@ -4,8 +4,7 @@ Convert pictures to ascii art use golang
 ## Installation
 
 ```
-go get github.com/nfnt/resize
-go build goasciiart.go
+go get github.com/stdupp/goasciiart
 ```
 
 ## Usage
