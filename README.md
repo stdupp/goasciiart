@@ -12,7 +12,7 @@ go get github.com/stdupp/goasciiart
 ```
 ./goarciiart -c abc.jpg(png) -w 80
 
--c path of your picture
+-p path of your picture
 -w the width of output
 ```
 
