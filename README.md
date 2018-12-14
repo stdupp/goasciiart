@@ -10,7 +10,7 @@ go get github.com/stdupp/goasciiart
 ## Usage
 
 ```
-./goarciiart -c abc.jpg(png) -w 80
+./goasciiart -p abc.jpg(png) -w 80
 
 -p path of your picture
 -w the width of output
@@ -18,7 +18,5 @@ go get github.com/stdupp/goasciiart
 
 ## Sample
 
-<figure class="half">
-    <img src="image/github.png">
-    <img src="image/asciiart.png">
-</figure>
+![origin image](image/github.png)
+![ascii image](image/asciiart.png)
